@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 16. Git / GitHub](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -18,7 +18,7 @@
 | 08 | 08. Branch | [블로그 보기](https://jqdom.com/blog/553) | - | - |
 | 09 | 09. GitHub에서 코드 보기 | [블로그 보기](https://jqdom.com/blog/554) | - | - |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

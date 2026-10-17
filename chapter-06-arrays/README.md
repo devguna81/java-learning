@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 06. 배열](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -18,7 +18,7 @@
 | 08 | 08. 실습 - 인벤토리 시스템 만들기 | [블로그 보기](https://jqdom.com/blog/460) | [`example/Main.java`](src/main/java/com/learning/chapter06/lesson08/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter06/lesson08/mission/Main.java) |
 | 09 | 09. 도전 - 몬스터 리스트 관리하기 | [블로그 보기](https://jqdom.com/blog/461) | [`example/Main.java`](src/main/java/com/learning/chapter06/lesson09/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter06/lesson09/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

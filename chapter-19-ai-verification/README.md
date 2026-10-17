@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 19. AI 코드 검증](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -15,7 +15,7 @@
 | 05 | 05. 오류 메시지 확인하기 | [블로그 보기](https://jqdom.com/blog/573) | [`example/Main.java`](src/main/java/com/learning/chapter19/lesson05/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter19/lesson05/mission/Main.java) |
 | 06 | 06. AI 답변 비교하기 | [블로그 보기](https://jqdom.com/blog/574) | [`example/Main.java`](src/main/java/com/learning/chapter19/lesson06/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter19/lesson06/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

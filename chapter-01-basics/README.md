@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 01. Java와 친해지기](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -16,7 +16,7 @@
 | 06 | 06. 주석 작성하기 | [블로그 보기](https://jqdom.com/blog/408) | [`example/Main.java`](src/main/java/com/learning/chapter01/lesson06/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter01/lesson06/mission/Main.java) |
 | 07 | 07. 실습 - 자기소개 프로그램 | [블로그 보기](https://jqdom.com/blog/409) | [`example/Main.java`](src/main/java/com/learning/chapter01/lesson07/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter01/lesson07/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

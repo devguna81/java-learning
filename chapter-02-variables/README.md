@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 02. 변수](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -19,7 +19,7 @@
 | 09 | 09. final | [블로그 보기](https://jqdom.com/blog/418) | [`example/Main.java`](src/main/java/com/learning/chapter02/lesson09/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter02/lesson09/mission/Main.java) |
 | 10 | 10. 실습 - 게임 캐릭터 정보 만들기 | [블로그 보기](https://jqdom.com/blog/419) | [`example/Main.java`](src/main/java/com/learning/chapter02/lesson10/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter02/lesson10/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

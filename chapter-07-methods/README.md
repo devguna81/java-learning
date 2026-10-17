@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 07. 메서드](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -18,7 +18,7 @@
 | 08 | 08. 실습 - 계산기 메서드 만들기 | [블로그 보기](https://jqdom.com/blog/469) | [`example/Main.java`](src/main/java/com/learning/chapter07/lesson08/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter07/lesson08/mission/Main.java) |
 | 09 | 09. 도전 - 전투 시스템 메서드로 리팩토링 | [블로그 보기](https://jqdom.com/blog/470) | [`example/Main.java`](src/main/java/com/learning/chapter07/lesson09/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter07/lesson09/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 08. 클래스와 객체](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -19,7 +19,7 @@
 | 09 | 09. 실습 - 캐릭터 클래스 만들기 | [블로그 보기](https://jqdom.com/blog/479) | [`example/Main.java`](src/main/java/com/learning/chapter08/lesson09/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter08/lesson09/mission/Main.java) |
 | 10 | 10. 도전 - 몬스터 클래스와 전투 시스템 | [블로그 보기](https://jqdom.com/blog/480) | [`example/Main.java`](src/main/java/com/learning/chapter08/lesson10/example/Main.java) | [`mission/Main.java`](src/main/java/com/learning/chapter08/lesson10/mission/Main.java) |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행

@@ -4,7 +4,7 @@
 
 - **블로그 시리즈**: [Java Learning - Chapter 17. Gradle](https://jqdom.com/blog?categoryId=9)
 
-## 📚 레슨 및 소스 코드 목록
+## 레슨 및 소스 코드 목록
 
 | 번호 | 레슨 제목 | 블로그 링크 | 예제 코드 경로 | 미션 모범 답안 |
 |:---:|:---|:---:|:---:|:---:|
@@ -17,7 +17,7 @@
 | 07 | 07. Build | [블로그 보기](https://jqdom.com/blog/561) | - | - |
 | 08 | 08. Test | [블로그 보기](https://jqdom.com/blog/562) | - | - |
 
-## 🚀 실행 방법
+## 실행 방법
 
 ```bash
 # 특정 레슨 컴파일 및 실행
